@@ -1,0 +1,40 @@
+1,Khalid Ahmed,Engineering,Computer Science,Bachelor,3.5
+2,Sara Omar,Medicine,Surgery,Bachelor,3.8
+3,Khaled Noor,IT,Networks,Diploma,3.1
+4,Ahmed Ali,Engineering,Mechanical,Bachelor,3.2
+5,Lina Hassan,Business,Marketing,Bachelor,3.6
+6,Omar Youssef,IT,Software Development,Bachelor,3.9
+7,Nour Adel,Science,Biology,Bachelor,3.4
+8,Yasmin Farouk,Education,Mathematics,Diploma,3.0
+9,Ali Mansour,Engineering,Civil,Bachelor,3.3
+10,Huda Saleh,Business,Accounting,Bachelor,3.7
+11,Mohamed Samir,IT,Cyber Security,Bachelor,3.5
+12,Rania Fathi,Arts,Graphic Design,Diploma,3.2
+13,Youssef Kamal,Science,Chemistry,Bachelor,3.1
+14,Mona Abdelrahman,Education,Physics,Bachelor,3.6
+15,Hassan Tarek,Engineering,Electrical,Bachelor,3.4
+16,Salma Nabil,Business,Finance,Bachelor,3.8
+17,Karim Adel,IT,Data Science,Bachelor,3.9
+18,Aya Mahmoud,Medicine,Pharmacy,Bachelor,3.5
+19,Mostafa Ibrahim,Engineering,Industrial,Diploma,3.0
+20,Dina Ashraf,Arts,Interior Design,Bachelor,3.3
+21,Amr Fawzy,Science,Mathematics,Bachelor,3.7
+22,Noha Saeed,Education,English,Bachelor,3.4
+23,Walid Hany,IT,Information Systems,Bachelor,3.2
+24,Farah Essam,Business,Human Resources,Diploma,3.1
+25,Islam Magdy,Engineering,Computer,Bachelor,3.8
+26,Mariam Lotfy,Medicine,Nursing,Bachelor,3.6
+27,Ahmed Saad,Science,Physics,Bachelor,3.5
+28,Nada Ehab,Arts,Media Studies,Bachelor,3.3
+29,Omar Khalil,IT,Artificial Intelligence,Bachelor,3.9
+30,Laila Mostafa,Business,Management,Bachelor,3.4
+31,Sameh Ayman,Engineering,Mechatronics,Bachelor,3.6
+32,Rim Hassan,Education,Early Childhood,Diploma,3.2
+33,Tamer Nasser,IT,Web Development,Diploma,3.1
+34,Sahar Adel,Science,Environmental Science,Bachelor,3.5
+35,Adel Mokhtar,Business,Economics,Bachelor,3.7
+36,Yara Hussein,Arts,Fine Arts,Bachelor,3.4
+37,Bilal Fathi,Engineering,Chemical,Bachelor,3.3
+38,Hana Youssef,Medicine,Public Health,Bachelor,3.6
+39,Mahmoud Zaki,IT,Cloud Computing,Bachelor,3.8
+40,Rasha Kamel,Education,Special Education,Bachelor,3.5
